@@ -1,0 +1,5 @@
+ws region: center(x,y,z) size(x,y,z)
+obs1 region: center(x,y,z) size(x,y,z)
+obs2 region: center(x,y,z) size(x,y,z)
+obs3 region: center(x,y,z) size(x,y,z)
+...
