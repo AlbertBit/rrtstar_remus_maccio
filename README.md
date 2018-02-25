@@ -5,4 +5,4 @@ In this repository for the sofar project you can find:
 - MATLAB codes folder in both the described folders
 - Ros version into rrtstar_ws
 - Report of the overall project
-- Documentation provided via Doxygen
+- Documentation generated via Doxygen
