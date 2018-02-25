@@ -1,0 +1,3 @@
+std_msgs/int8 arm
+std_msgs/bool holdingmode
+

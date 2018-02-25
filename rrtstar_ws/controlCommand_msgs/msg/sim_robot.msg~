@@ -1,0 +1,3 @@
+int8 Activation								# value of activation
+sim_singleArm sim_single_arm	# 0
+sim_bimanArm sim_biman_arm		# 1

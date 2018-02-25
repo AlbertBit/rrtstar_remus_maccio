@@ -1,0 +1,3 @@
+int8 arm		# 0:L, 1:R
+bool value	# 0:close, 1:open
+

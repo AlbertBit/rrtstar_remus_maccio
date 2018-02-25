@@ -1,0 +1,8 @@
+bool[6] controlGoalReachAck
+#armControl oneArm						# 0
+#bimanual bimanualArm				# 1
+#closeGrip closeGripArm			# 2
+#openGrip openGripArm				# 3
+#stop stopArm								# 4
+#holdMode holdModeArm				# 5
+

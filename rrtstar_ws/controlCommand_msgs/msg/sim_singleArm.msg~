@@ -1,0 +1,5 @@
+int8 armIndex							# Arm to be simulate
+int8 NoGoals							# No of poses to reach
+transformation jointsInit		# initial state
+transformation[] cartGoal	# 
+

@@ -1,0 +1,6 @@
+int8 arm1_Index
+int8 arm2_Index
+int8 NoGoals
+transformation cartInit
+transformation[] cartGoal
+
