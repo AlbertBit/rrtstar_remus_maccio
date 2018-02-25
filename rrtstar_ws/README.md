@@ -1,1 +1,1 @@
-
+For the compilation of the workspace the pitt package is required, since it's formed by a big number of files it has been omitted, in any case it's always available from Kourosh's repository in case of need
